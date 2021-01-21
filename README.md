@@ -1,2 +1,2 @@
 # bowntobegood
-This is the info for the website bowntobegood.com
+This is the files for the website at bowntobegood.com
