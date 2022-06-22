@@ -1,0 +1,56 @@
+/* Body Changes*/
+
+body {
+    background-color: whitesmoke;
+  }
+
+
+.container{
+  border-color: whitesmoke;
+}
+/*End body changes*/
+
+
+/*slide show changes*/
+
+/* Caption text */
+.text {
+  color: black;
+  font-weight: bold;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/* End slide show changes*/
+
+/* Footer Changes */
+.all-browsers {
+  background-color: black;
+}
+
+
+.browser {
+  background: white;
+}
+
+
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: whitesmoke;
+
+}
+
+.footercontact{
+  text-align: left;
+  color: sandybrown;
+}
+
+.footerlink{
+
+  color: sandybrown;
+}

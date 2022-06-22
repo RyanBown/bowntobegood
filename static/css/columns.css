@@ -1,0 +1,67 @@
+
+/*
+code adapted from
+https://www.w3schools.com/howto/howto_css_three_columns.asp
+
+*/
+
+* {
+    box-sizing: border-box;
+  }
+  
+
+.column {
+    float: left;
+    padding: 10px;
+    text-align: center;
+    background-color:sandybrown;
+
+    width: 75%;
+
+
+
+}
+
+.eigthfiller{
+  width: 12.5%;
+  background-color: whitesmoke;
+}
+
+.quarterfiller{
+  width: 25%;
+  background-color: whitesmoke;
+}
+
+.single{
+  width: 75%;
+}
+
+.centerfold{
+  width: 50%;
+}
+
+.bi {
+        width: 50%;
+      }
+
+.tri {
+    width: 33.33%;
+  }
+
+.quad {
+        width: 25%;
+      }
+      
+  /* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+.imgcol{
+  
+  max-width: 75%;
+
+}
+
